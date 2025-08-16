@@ -70,9 +70,9 @@ Use JavaScript for form validation and animations
 
 Saravanan
 
-🎓 Final Year ECE Student | AI Enthusiast | Aspiring Developer
+🎓 AI Enthusiast | Aspiring Developer
 
-🌐 LinkedIn
+🌐 https://www.linkedin.com/in/saravanan-s-b97279227/
 
 
 ---
